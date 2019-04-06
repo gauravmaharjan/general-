@@ -1,0 +1,5 @@
+git branch <name>   creates a branch with name
+
+git checkout <branch name>    switches to the branch 
+
+git merge  <branch name>   (should be while in master branch, to merge finsihed functions to master)
